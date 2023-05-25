@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { Key } from "./key";
 import { usePhoneNumber } from "../hooks/use.keyboard";
 
